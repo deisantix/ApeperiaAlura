@@ -1,2 +1,2 @@
-# ApeperiaAlura
-HTML &amp; CSS de um site de desenvolvimento de Apps para praticar design responsivo com o conceito "mobile first"
+# projeto-apeperia
+Arquivos do projeto para a Apeperia
